@@ -1,4 +1,5 @@
  {
- 	"hellomessage": "Hello from a JSON config!!"
+ 	"hellomessage": "Hello from a JSON config!!",
+  "alternatemessage": "Custom JSON message."
  }
  
